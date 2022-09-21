@@ -1,0 +1,4 @@
+[submodule "AliHer2/l10n_ve_odoo_15"]
+	path = AliHer2/l10n_ve_odoo_15
+	url = git@github.com:AliHer2/l10n_ve_odoo_15.git
+	branch = master
